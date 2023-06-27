@@ -23,7 +23,6 @@
 }
 
 html {
-  min-width: 398px;
   scroll-behavior: smooth;
   overflow-x: hidden;
 }
