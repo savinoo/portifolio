@@ -362,7 +362,10 @@ footer{
   .contatos a:nth-child(5){
     margin-top: 0;
   }
-  
+
+  #navbar ul{
+    font-size: 20px;
+  }
 
 }
 
