@@ -25,7 +25,7 @@
 html {
   min-width: 398px;
   scroll-behavior: smooth;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 body{
