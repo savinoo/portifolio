@@ -31,7 +31,6 @@ body{
   width: 100vw;
   font-size: 1.8rem;
   line-height: 1.4;
-  scroll-behavior: smooth;
 }
 
 header{
