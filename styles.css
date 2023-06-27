@@ -167,7 +167,7 @@ a{
   font-size: 22px;
   padding: 0.7rem 1.4rem;
   display: flex;
-  margin: 5rem auto 3rem;
+  margin: 4rem auto 3rem;
   align-items: center;
   gap: 0.7em;
   border: none;
@@ -374,6 +374,10 @@ footer{
 
   #projects{
     gap: 2.2em;
+  }
+
+  .button{
+    margin-top: 5rem;
   }
 
 }
