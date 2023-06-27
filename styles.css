@@ -20,6 +20,7 @@
   box-sizing: border-box;
   text-align: center;
   font-family: Poppins, sans-serif;
+  overflow: hidden;
 }
 
 html {
