@@ -102,3 +102,8 @@ a{
 	#moldura{
 		width: 80%;
 }
+
+@media screen and (max-width: 500px){
+	#moldura{
+		width: 97%;
+}
